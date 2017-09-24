@@ -2,3 +2,5 @@
 django REST api which finds routine of a particular day on a particular slot
 
 days and slot parameters entered through url dispatcher
+
+#please add the sample of url which would work 
